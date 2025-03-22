@@ -6,7 +6,7 @@ Además, también veremos que hacen que estas aplicaciones formen partes de un s
 
 ## Aplicaciones que usan IA
 
-### Otter 
+### Otter -> Procesamiento de lenguaje natural
 
 Puedes entrar en la página web oficial si haces click [aquí](https://otter.ai/)
 
@@ -30,7 +30,7 @@ La razón por la que he escogido esta aplicación es porque me parece muy intere
 
 ---
 
-### Windsurf editor
+### Windsurf editor -> Desarrollo de software y automatización con IA
 
 Puedes entrar en la página web oficial si haces click [aquí](https://codeium.com/windsurf).
 
@@ -56,7 +56,7 @@ Cabe destacar que también tiene **MCP** con Github, puppeteer, PostgreSQL entre
 
 #### Características que cumple
 
-- *Capacidad sensorial y contextual* Windsurf es capaz de "ver" el código en cascada y también integrar dependencias necesarias del  repositorio.
+- *Capacidad sensorial y contextual* Windsurf es capaz de "ver" el código en cascada y también integrar dependencias necesarias del  repositorio.å©
 - *Memoria y conocimiento* El sistema almacena el código y su estructura lo que le permite "recordar" el contexto en futuras integraciones
 - *Conceptualización* Es capaz de entender el contexto del código y sus relaciones.
 
@@ -66,7 +66,7 @@ Cabe destacar que también tiene **MCP** con Github, puppeteer, PostgreSQL entre
 - *Sistematización* Aunque opera de forma integrada dentro del entorno del desarrollo de software, su aplicabilidad está restringida a ese dominio y no abarca la complejidad de un sistema inteligente “completo” que pueda interactuar y aprender de múltiples entornos de manera global.
 ---
 
-### Goblin tools
+### Goblin tools -> Asistente personal con IA y productividad
 
 Puedes entrar en la página web oficial si haces click [aquí](https://goblin.tools/).
 
